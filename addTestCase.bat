@@ -1,0 +1,1 @@
+node addTestcases.js "credentials.json" "questions"

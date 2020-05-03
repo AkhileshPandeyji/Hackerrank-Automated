@@ -1,0 +1,1 @@
+node addModerator.js "credentials.json" "pande_prasad1"
